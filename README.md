@@ -1,4 +1,13 @@
 # Erika Chuck
+
+## Welcome
+Hi, I’m Erika Chuck, a data analyst passionate about using data to solve real-world problems. With a background in environmental engineering, I transitioned to data analysis, bringing my strong analytical skills and attention to detail to every project. I specialize in data cleaning, visualization, and drawing insights from complex datasets to inform decision-making.
+
+I’ve worked on a variety of projects, from customer retention strategies to sales trend analysis, using tools like Python, SQL, Tableau, and PowerBI. I'm excited to continuously learn and apply my skills to help businesses and organizations thrive.
+
+Feel free to explore my projects and connect with me!
+
+
 ## **Projects**
 
 ### **"Data-Driven Customer Retention Strategy for Model Fitness"**
