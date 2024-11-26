@@ -1,8 +1,21 @@
 # Erika Chuck
 
 ## Projects
+### **"Data-Driven Customer Retention Strategy for Model Fitness"**
+This project analyzed customer data from the **Model Fitness** gym chain to address the issue of customer churn and develop an effective data-driven retention strategy.  
+The probability of churn for the upcoming month was predicted, identifying the most representative customer groups and describing their main characteristics. Key factors influencing membership cancellations were also analyzed. Based on these findings, recommendations were made to improve customer service, reduce churn, and optimize user interaction, successfully identifying significant behavioral patterns.
+![image](https://github.com/user-attachments/assets/a71a115a-86e5-40f6-b1bc-71270a59da68)
+Visit the link: [model_fitness](https://github.com/ErikaChuck/model_fitness)
+
 ### "Patterns that determine success in video games"
-In this project, the level of success in video games was analyzed based on user reviews, expert critiques, and historical sales data across different regions of the world.
-https://github.com/ErikaChuck/games
+In this project, the level of success in video games was analyzed based on user reviews, expert critiques, and historical sales data across different regions of the world. Additionally, the impact of reviews and critiques on sales levels was evaluated, and user profiles for different video game categories were identified.
+Visit the link: [games](https://github.com/ErikaChuck/games).
 ![image](https://github.com/user-attachments/assets/4ab3c24f-44e7-4791-93b7-8fc241615420)
+![image](https://github.com/user-attachments/assets/ff805754-f42b-432b-ba11-60b29fa7e1b9)
+
+### "Impact of external factors on car travel"
+The project involves simulating the work of an analyst for Zuber, a new ride-sharing company launching in Chicago. The task is to identify patterns in the available data, understand passenger preferences, and evaluate the impact of external factors on rides.  
+While working with a database, competitor data was analyzed, and a hypothesis was tested regarding the impact of weather on ride frequency.
+Visit the link: [zuber](https://github.com/ErikaChuck/zuber)
+![image](https://github.com/user-attachments/assets/9088d499-0925-4804-84d4-58fa8d916cbe)
 
