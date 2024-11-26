@@ -1,3 +1,4 @@
+# Erika Chuck
 ## **Projects**
 
 ### **"Data-Driven Customer Retention Strategy for Model Fitness"**
