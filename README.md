@@ -1,6 +1,6 @@
 # Erika Chuck
 
-##Projects
+## Projects
 ### "Patterns that determine success in video games"
 In this project, the level of success in video games was analyzed based on user reviews, expert critiques, and historical sales data across different regions of the world.
 https://github.com/ErikaChuck/games
