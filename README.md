@@ -16,9 +16,10 @@ The probability of churn for the upcoming month was predicted, identifying the m
 
 Visit the link: [model_fitness](https://github.com/ErikaChuck/model_fitness)
 
+Apparently, the characteristics that most influence the cancellation rate are the contract period (customers cancel the service once the contract ends) and the expenses incurred at the gym. The recommendation would be to emphasize longer contracts through discounts and to also monitor additional charges. If the customer purchases services or products offered at the gym, it indicates they are an active customer. In contrast, if they only have a long contract and are completely inactive, they could be considered a dormant customer.
 ![image](https://github.com/user-attachments/assets/a71a115a-86e5-40f6-b1bc-71270a59da68)
 
-
+Tools: Python, jupiter notebook, pandas, matplotlib, seaborn, sklearn, numpy
 
 ### **"Patterns that determine success in video games"**
 In this project, the level of success in video games was analyzed based on user reviews, expert critiques, and historical sales data across different regions of the world. Additionally, the impact of reviews and critiques on sales levels was evaluated, and user profiles for different video game categories were identified.
