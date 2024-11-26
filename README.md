@@ -28,3 +28,7 @@ Visit the link: [zuber](https://github.com/ErikaChuck/zuber)
 
 ![image](https://github.com/user-attachments/assets/9088d499-0925-4804-84d4-58fa8d916cbe)
 
+
+## Contact
+email: erika_chuck@live.com
+Linkedin: [Erika Chuck](www.linkedin.com/in/erikajchucklievano)
